@@ -1,4 +1,3 @@
-```cmd
 @echo off
 title Portable Qwen AI Server
 echo Starting local AI server from USB...
